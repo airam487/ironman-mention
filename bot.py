@@ -34,7 +34,7 @@ async def staryt(event):
   await event.reply("^_^ Hey, Welcome To Simple Mention Bot\nIt can tag 15,000 Members in Group and 300 Members In Channel.\nNeed Help /help ",
                     buttons=(
                       [Button.url('🙃 Add To Group', 'https://t.me/ironman_groupassit_bot?startgroup=true'),
-                      Button.url('Support', 'https://t.me/ironman_support1')
+                      Button.url('Support', 'https://t.me/ironman_support1'),
                       Button.url('Updates', 'https://t.me/ironman_support1')]
                     ),
                     link_preview=False
@@ -48,7 +48,7 @@ async def helrp(event):
                     buttons=(
                     [Button.url('🙃 Add To Group', 'https://t.me/ironman_groupassit_botn?startgroup=true'),
 
-                      Button.url('Support', 'https://t.me/ironman_support1')
+                      Button.url('Support', 'https://t.me/ironman_support1'),
 
                       Button.url('Updates', 'https://t.me/ironman_support1')]
 
